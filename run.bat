@@ -1,0 +1,2 @@
+python StudentBehaviour.py
+pause
